@@ -1,3 +1,3 @@
 # Honeygain_Webscraper
-requires selenium 
+requires selenium :
 pip install selenium
